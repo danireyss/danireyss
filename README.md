@@ -1,5 +1,5 @@
 # 💫 About Me:
- ### Hi there 👋<br><br>* 💻 I'm currently working on expanding my backend development skills through hands-on contributions to Zulip, where I'm implementing webhook integrations and learning Django/Python in a production codebase.<br>* 🤝 I'm looking to collaborate on open-source tools that help developers learn faster.  <br>* 📚 I'm currently learning cloud deployment with AWS and Docker.  <br>* 💬 Ask me about Java, Python, or setting up your first API.  <br>
+ ### Hi there 👋<br><br>* 💻 I'm currently working on expanding my backend development skills through hands-on contributions to Zulip, where I'm implementing webhook integrations and learning Django/Python in a production codebase.<br>* 🤝 I'm looking to collaborate on open-source tools  <br>* 📚 I'm currently learning cloud deployment with AWS and Docker.  <br>* 💬 Ask me about Java, Python, or setting up your first API.  <br>
 
 
 ## 🌐 Socials:
