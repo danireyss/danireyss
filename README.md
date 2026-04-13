@@ -1,10 +1,10 @@
-# Hey, I'm Daniel 👋
+# Hey, I'm Daniel 
 
 CS student at **Florida International University** focused on full-stack and backend development — building toward a career as a software engineer at scale.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -33,7 +33,7 @@ CS student at **Florida International University** focused on full-stack and bac
 
 ---
 
-## 📚 Currently Reading / Studying
+##  Currently Reading / Studying
 
 - *Inside the Machine* — Computer architecture from the ground up
 - *Designing Data-Intensive Applications* — Distributed systems fundamentals
@@ -41,17 +41,17 @@ CS student at **Florida International University** focused on full-stack and bac
 
 ---
 
-## 💡 Interests
+##  Interests
 
 - Backend systems & API design
 - Distributed systems & databases
 - System design & scalability
-- Fitness: swimming 🏊 & weightlifting 🏋️
-- Gaming 🎮 & word puzzles
+- Fitness: swimming  & weightlifting 
+- Gaming & word puzzles
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
