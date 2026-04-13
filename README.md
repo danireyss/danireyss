@@ -1,5 +1,6 @@
 # 💫 About Me:
- ### Hi there 👋<br><br>* 💻 Backend developer with a passion for building reliable, efficient systems and contributing to open source. I write clean, purposeful code in Java, Python, and C — and I care about the details that make software maintainable at scale.<br>* 🤝 I'm looking to collaborate on open-source tools  <br>* 📚 I'm currently learning cloud deployment with AWS and Docker.  <br>
+ ### CS student at **Florida International University** focused on full-stack and backend development — building toward a career as a software engineer at scale.
+
 
 
 ## 🌐 Socials:
