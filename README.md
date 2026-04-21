@@ -32,14 +32,6 @@ CS student at **Florida International University** focused on full-stack and bac
 
 ---
 
-##  Currently Reading / Studying
-
-- *Inside the Machine* — Computer architecture from the ground up
-- *Designing Data-Intensive Applications* — Distributed systems fundamentals
-- *System Design Interview Vol. 1* — Interview prep + practical architecture
-
----
-
 ##  Interests
 
 - Backend systems & API design
