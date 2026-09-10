@@ -1,6 +1,6 @@
 # Hey, I'm Daniel 
 
-CS student at **Florida International University** focused on full-stack and backend development — building toward a career as a software engineer at scale.
+CS student at **Florida International University** focused on AI Infra — building toward a career as a software engineer at scale.
 
 ---
 
@@ -36,8 +36,7 @@ CS student at **Florida International University** focused on full-stack and bac
 
 ##  Interests
 
-- Backend systems & API design
-- Distributed systems & databases
+- AI Infrastructure Engineering
 - System design & scalability
 - Fitness: swimming  & weightlifting 
 - Gaming & word puzzles
